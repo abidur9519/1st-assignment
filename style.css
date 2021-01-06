@@ -1,0 +1,49 @@
+h1{
+    font-size: 30px;
+}
+.half-width{
+    width: 35%;
+    float: left;
+    margin-left: 3%;
+    padding-left: 1%;
+}
+.half-width img{
+    width: 80%;
+}
+.secsize{
+    height: 200px;
+}
+.button{
+    text-decoration: none;
+    background-color:lightcoral;
+    padding: 15px 50px;
+    border-radius: 8px;
+    color: #ffffff;
+    font-weight: 700;
+}
+
+.third{
+    width: 23%;
+    float: left;
+    margin-left: 3%;
+    padding-left: 1%;
+}
+.third img{ 
+    width: 100%;
+}
+.threesec{
+    height: 350x;
+    margin-top: 230px;
+    background-color: #e5e5e5;
+}
+h3{
+    text-align: center;
+    font-size: 35px;
+    margin-top: 5px;
+}
+.latest{
+    color: lightcoral;
+}
+.box{
+    background-image: url(webextra/shapes/work.png);
+}
