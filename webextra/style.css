@@ -1,0 +1,41 @@
+.firstsec{
+    height: 400px;
+
+
+}
+
+.firstsecdiv{
+    width: 40%;
+    float: left;
+    margin-left: 6%;
+    padding-left: 2%;
+}
+.firstsecdiv img{
+    width: 80%;
+    height: 300px;
+}
+.lorem{
+    text-align:
+}
+div{
+    border: red;
+    border-style: dotted;
+}
+.projectsec{
+    height: 450px;
+    margin-top: 400px;
+}
+.threediv{
+    width: 23%;
+    float: left;
+    
+   
+}
+.threeimg img{
+    width: 100%;
+}
+.margindiv{
+    margin-left: 6%;
+    padding-left: 2%;
+
+}
