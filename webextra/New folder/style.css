@@ -1,0 +1,47 @@
+.firstsec{
+    height: 400px;
+
+
+}
+
+.firstsecdiv{
+    width: 40%;
+    float: left;
+    margin-left: 6%;
+    padding-left: 2%;
+}
+.firstsecdiv img{
+    width: 80%;
+    height: 300px;
+}
+.lorem{
+    text-align:
+}
+div{
+    border: red;
+    border-style: dotted;
+}
+.projectsec{
+    height: 450px;
+    margin-top: 400px;
+    background-color: #e5e5e5;
+}
+.threediv{
+    width: 23%;
+    float: left;
+    margin-left: 30px;
+    box-shadow:  15px 15px white;
+    border-radius: 20px;
+    
+
+    
+   
+}
+.threeimg img{
+    width: 100%;
+}
+.margindiv{
+    margin-left: 10%;
+    padding-left: 2%;
+
+}
